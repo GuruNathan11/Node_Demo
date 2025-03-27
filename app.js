@@ -6,7 +6,7 @@ const PORT = 7000;
 
 // Define a route for the root URL
 app.get("/", (req, res) => {
-    res.send("Hi, Good Morning \n This is Exact AWS CICD Pipeline...");
+    res.send("Hi, Good Morning \n This is first step for AWS CICD...");
 });
 
 // Start the server
